@@ -1,0 +1,9 @@
+#!/bin/bash
+#Script Variables
+HOST='66.45.231.14';
+USER='ezanitco_core4vpn';
+PASS='ezanitco_core4vpn';
+DBNAME='ezanitco_core4vpn';
+PORT_TCP='1194';
+PORT_UDP='53';
+404: Not Found
